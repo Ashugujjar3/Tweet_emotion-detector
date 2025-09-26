@@ -62,9 +62,10 @@
 
 ## 🔢 Confusion matrix
 - Logistic Regression → `docs/confusion_matrix.png`
-- (docs/confusion_matrix.png)
+![Confusion Matrix Example](docs/confusion_matrix.png)
+
 - Naive Bayes → `docs/naive bayes.png`
-- (docs/naive bayes.png)
+![Confusion Matrix Example](docs/naive bayes.png)
 
 ---
 
